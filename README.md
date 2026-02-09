@@ -5,4 +5,3 @@
 - 🔍 Interesso-me por engenharia de software, boas práticas de código e soluções eficientes.
 - 📫 Contato profissional: camilli.santos2015@gmail.com
 
-![Uploading images-removebg-preview.png…]()
