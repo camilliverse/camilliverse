@@ -45,17 +45,18 @@
 ##  Redes sociais para contato
 
 <p align="center">
-  <a href="https://www.instagram.com/camillistos/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F">
+  <a href="https://www.instagram.com/camillistos/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/camillisantosdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  <a href="https://www.linkedin.com/in/camillisantosdev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://discord.com/users/588350952361164807" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2">
+  <a href="https://discord.com/users/588350952361164807" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
+
 
 
