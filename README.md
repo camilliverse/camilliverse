@@ -39,3 +39,22 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
 </p>
+
+---
+
+## Redes sociais para contato
+
+<p align="center">
+  <a href="https://www.instagram.com/camillistos/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F">
+  </a>
+
+  <a href="www.linkedin.com/in/camillisantosdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  </a>
+
+  <a href="588350952361164807" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2">
+  </a>
+</p>
+
