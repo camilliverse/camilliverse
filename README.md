@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gamemakerstudio/gamemakerstudio-original.svg" width="35"/>
+  <img src="https://cdn.simpleicons.org/gamemaker" width="35"/>
 </p>
 
 ---
