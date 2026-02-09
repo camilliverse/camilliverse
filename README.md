@@ -1,7 +1,10 @@
-# Portifolio da Camis
+# Portifolio Camilli dos Santos
 
- Ciência da Computação  
- Desenvolvedora focada em software e games  
+**Desenvolvedora de Software e estudante de Ciência da Computação, com interesse em engenharia de software, desenvolvimento de aplicações e criação de jogos digitais.
+
+Atualmente desenvolvo projetos práticos envolvendo múltiplas linguagens e ferramentas modernas, explorando desde desenvolvimento web até ambientes de game development. Tenho foco em estruturação de código, organização de projetos, lógica computacional e boas práticas de desenvolvimento.
+
+Busco constantemente evoluir minhas habilidades técnicas por meio de estudo contínuo e implementação prática, transformando aprendizado em soluções funcionais e projetos concretos.**
 
 
 ---
