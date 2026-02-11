@@ -10,10 +10,9 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 </b>
 </p>
 
-
 ---
 
-##  Tecnologias que utilizo
+## Tecnologias que utilizo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
@@ -28,7 +27,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ---
 
-##  Ferramentas que utilizo
+## Ferramentas que utilizo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
@@ -44,26 +43,59 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 ## Sistemas Operacionais que utilizo
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="35"/>
 </p>
 
 ---
 
-##  Redes sociais para contato
+## Redes sociais para contato
 
 <p align="center">
-  <a href="https://www.instagram.com/camillistos/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/camillistos/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/camillisantosdev/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/camillisantosdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://discord.com/users/588350952361164807" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.com/users/588350952361164807" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
+---
 
+<div align="center">
+  <canvas id="pixi-canvas" width="600" height="200"></canvas>
+</div>
 
+<script src="https://pixijs.download/release/pixi.min.js"></script>
+<script>
+const app = new PIXI.Application({
+    view: document.getElementById('pixi-canvas'),
+    width: 600,
+    height: 200,
+    backgroundColor: 0x0d1117
+});
+
+const graphics = new PIXI.Graphics();
+graphics.beginFill(0x00ffcc);
+graphics.drawCircle(0, 0, 20);
+graphics.endFill();
+graphics.x = 50;
+graphics.y = 100;
+
+app.stage.addChild(graphics);
+
+app.ticker.add(() => {
+    graphics.x += 2;
+    if (graphics.x > 600) {
+        graphics.x = 0;
+    }
+});
+</script>
