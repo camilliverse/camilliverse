@@ -12,7 +12,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ---
 
-## Tecnologias que utilizo
+## Tecnologias 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
@@ -27,8 +27,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ---
 
-## Ferramentas que utilizo
-
+## Ferramentas 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35"/>
@@ -40,7 +39,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ---
 
-## Sistemas Operacionais que utilizo
+## Sistemas Operacionais
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35"/>
