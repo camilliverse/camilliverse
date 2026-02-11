@@ -72,6 +72,6 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 <h2 align="center"></h2>
 
 <p align="center">
-  <img src="assets/gameplay.gif" width="700"/>
+  <img src="assets/gameplay.gif" width="400"/>
 </p>
 
