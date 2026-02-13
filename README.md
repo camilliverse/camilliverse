@@ -1,10 +1,10 @@
 <h1 align="center">Portfólio Camilli dos Santos</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&pause=1000&color=D57FD9&width=435&lines=Oi!+Eu+sou+a+Camilli+dos+Santos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&pause=1000&color=4FC3F7&width=500&lines=Welcome+to+my+portfolio." />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4FC3F7&height=120&section=footer"/>
 
 
 <p align="center">
