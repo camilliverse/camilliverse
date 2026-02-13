@@ -1,11 +1,6 @@
 <h1 align="center">Portfólio Camilli dos Santos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&pause=1000&color=4FC3F7&size=30&center=true&vCenter=true&width=600&lines=Welcome+to+my+portfolio." />
-</p>
-
-
-<p align="center">
 <b>
 Desenvolvedora de Software e estudante de Ciência da Computação, com interesse em engenharia de software, desenvolvimento de aplicações e criação de jogos digitais.<br><br>
 
