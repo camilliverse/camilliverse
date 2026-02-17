@@ -13,12 +13,9 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ## Idiomas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" width="35"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/English-Studying-1E90FF?style=for-the-badge&logo=googletranslate&logoColor=white"/>
 </p>
-
-<b>Inglês — Nível em desenvolvimento</b><br>
-Estudante ativa com foco em leitura técnica, interpretação de documentação e evolução para conversação profissional.
 
 ---
 
