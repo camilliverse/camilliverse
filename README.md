@@ -10,7 +10,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 </b>
 </p>
 
----
+
 
 ## Tecnologias 
 
@@ -29,11 +29,12 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
 <img src="https://cdn.simpleicons.org/firebase" width="35"/>
 </p>
 
----
+
 
 ## Ferramentas 
 <p align="left">
@@ -43,6 +44,9 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="35"/>
   <img src="https://cdn.simpleicons.org/gamemaker/white" width="35"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35"/>
   <img src="https://cdn.simpleicons.org/aseprite" width="35"/>
   <img src="https://cdn.simpleicons.org/robloxstudio/white" width="35"/>
 </p>
