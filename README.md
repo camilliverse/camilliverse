@@ -35,6 +35,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="35"/>
   <img src="https://cdn.simpleicons.org/gamemaker/white" width="35"/> 
+  <img src="https://cdn.simpleicons.org/robloxstudio/white" width="35"/>
 </p>
 
 ---
