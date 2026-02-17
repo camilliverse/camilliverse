@@ -46,7 +46,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
   <img src="https://cdn.simpleicons.org/gamemaker/white" width="35"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="35"/>
   <img src="https://cdn.simpleicons.org/aseprite" width="35"/>
   <img src="https://cdn.simpleicons.org/robloxstudio/white" width="35"/>
 </p>
