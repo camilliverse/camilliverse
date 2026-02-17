@@ -9,6 +9,16 @@ Atualmente desenvolvo projetos práticos envolvendo múltiplas linguagens e ferr
 Busco constantemente evoluir minhas habilidades técnicas por meio de estudo contínuo e implementação prática, transformando aprendizado em soluções funcionais e projetos concretos.
 </b>
 </p>
+---
+
+## Idiomas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
+</p>
+
+<b>Inglês — Em desenvolvimento (Estudante ativo)</b><br>
+Estudando inglês com foco em leitura técnica, documentação e comunicação profissional na área de tecnologia.
 
 ---
 
