@@ -9,6 +9,7 @@ Atualmente desenvolvo projetos práticos envolvendo múltiplas linguagens e ferr
 Busco constantemente evoluir minhas habilidades técnicas por meio de estudo contínuo e implementação prática, transformando aprendizado em soluções funcionais e projetos concretos.
 </b>
 </p>
+
 ---
 
 ## Idiomas
