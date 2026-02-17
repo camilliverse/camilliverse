@@ -12,7 +12,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ---
 
-## 💻 Linguagens
+## Linguagens
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
@@ -25,7 +25,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ---
 
-## 🌐 Front-End
+## Front-End
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
@@ -34,7 +34,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ---
 
-## 🗄 Backend & Banco de Dados
+## Backend & Banco de Dados
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
@@ -46,7 +46,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ---
 
-## 🎮 Game Development
+## Game Development
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35"/>
@@ -59,7 +59,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ---
 
-## 🛠 Ferramentas & IDEs
+## Ferramentas & IDEs
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
@@ -70,7 +70,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ---
 
-## 🖥 Sistemas Operacionais
+## Sistemas Operacionais
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35"/>
@@ -83,7 +83,7 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 
 ---
 
-## 🌐 Redes sociais para contato
+## Redes sociais
 
 <p align="center">
   <a href="https://www.instagram.com/camillistos/" target="_blank">
