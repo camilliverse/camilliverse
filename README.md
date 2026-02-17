@@ -14,11 +14,11 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 ## Idiomas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" width="35"/>
 </p>
 
-<b>Inglês — Em desenvolvimento (Estudante ativo)</b><br>
-Estudando inglês com foco em leitura técnica, documentação e comunicação profissional na área de tecnologia.
+<b>Inglês — Nível em desenvolvimento</b><br>
+Estudante ativa com foco em leitura técnica, interpretação de documentação e evolução para conversação profissional.
 
 ---
 
