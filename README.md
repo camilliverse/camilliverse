@@ -103,5 +103,5 @@ Busco constantemente evoluir minhas habilidades técnicas por meio de estudo con
 ---
 
 <p align="center">
-  <img src="new gif 02.gif" width="400"/>
+  <img src="neww giff.gif" width="400"/>
 </p>
