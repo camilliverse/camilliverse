@@ -2,11 +2,11 @@
 
 <p align="center">
 <b>
-Desenvolvedora de Software e estudante de Ciência da Computação, com interesse em engenharia de software, desenvolvimento de aplicações e criação de jogos digitais.<br><br>
+Desenvolvedora de Software e estudante de Ciência da Computação, com interesse em engenharia de software, desenvolvimento de aplicações e jogos digitais.
 
-Atualmente desenvolvo projetos práticos envolvendo múltiplas linguagens e ferramentas modernas, explorando desde desenvolvimento web até ambientes de game development. Tenho foco em estruturação de código, organização de projetos, lógica computacional e boas práticas de desenvolvimento.<br><br>
+Atualmente desenvolvo projetos práticos com diferentes linguagens e ferramentas, explorando desde web até game development, com foco em organização de código, lógica e boas práticas.
 
-Busco constantemente evoluir minhas habilidades técnicas por meio de estudo contínuo e implementação prática, transformando aprendizado em soluções funcionais e projetos concretos.
+Busco evolução constante por meio de estudo e prática, transformando conhecimento em soluções e projetos funcionais.
 </b>
 </p>
 
