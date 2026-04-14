@@ -10,7 +10,6 @@ Busco evolução constante por meio de estudo e prática, transformando conhecim
 </b>
 </p>
 
----
 
 ## Idiomas
 
@@ -21,7 +20,6 @@ Busco evolução constante por meio de estudo e prática, transformando conhecim
 <b>Inglês — Nível em desenvolvimento</b><br>
 <b>Estudante ativa com foco em leitura técnica, interpretação de documentação e evolução para conversação profissional.</b>
 
----
 
 ## Tecnologias
 
@@ -35,8 +33,6 @@ Busco evolução constante por meio de estudo e prática, transformando conhecim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="35"/>
 </p>
 
----
-
 ## Backend & Banco de Dados
 
 <p align="left">
@@ -45,7 +41,6 @@ Busco evolução constante por meio de estudo e prática, transformando conhecim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
 </p>
 
----
 
 ## Game Development
 
@@ -58,7 +53,6 @@ Busco evolução constante por meio de estudo e prática, transformando conhecim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="35"/>
 </p>
 
----
 
 ## Ferramentas & IDEs
 
@@ -68,8 +62,6 @@ Busco evolução constante por meio de estudo e prática, transformando conhecim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="35"/>
 </p>
-
----
 
 ## Sistemas Operacionais
 
@@ -82,7 +74,6 @@ Busco evolução constante por meio de estudo e prática, transformando conhecim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="35"/>
 </p>
 
----
 
 ## Redes sociais
 
@@ -100,7 +91,6 @@ Busco evolução constante por meio de estudo e prática, transformando conhecim
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="neww giff.gif" width="400"/>
