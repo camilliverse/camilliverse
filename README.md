@@ -25,9 +25,9 @@
 <br>
 <div align="left">
 
-  <img width="420"
-       src="https://github-readme-stats-hcip.vercel.app/api?username=camilliverse&show_icons=true&count_private=true&hide=issues&bg_color=00000000&title_color=e6edf3&text_color=9da7b3&icon_color=9da7b3&border_color=9da7b3"/>
   <img width="400"
+       src="https://github-readme-stats-hcip.vercel.app/api?username=camilliverse&show_icons=true&count_private=true&hide=issues&bg_color=00000000&title_color=e6edf3&text_color=9da7b3&icon_color=9da7b3&border_color=9da7b3"/>
+  <img width="380"
        src="https://github-readme-stats-hcip.vercel.app/api/top-langs/?username=camilliverse&layout=compact&langs_count=2&bg_color=00000000&title_color=e6edf3&text_color=9da7b3&border_color=9da7b3"/>
 
 </div>
