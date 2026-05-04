@@ -23,10 +23,11 @@
 </div>
 
 <br>
-
 <div align="left">
+
   <img height="150"
-       src="https://github-readme-stats-hcip.vercel.app/api?username=camilliverse&show_icons=true&theme=github_dark&count_private=true"/>
+       src="https://github-readme-stats-hcip.vercel.app/api?username=camilliverse&show_icons=true&count_private=true&bg_color=00000000&title_color=e6edf3&text_color=9da7b3&icon_color=9da7b3&border_color=9da7b3"/>
   <img height="150"
-       src="https://github-readme-stats-hcip.vercel.app/api/top-langs/?username=camilliverse&layout=compact&theme=github_dark"/>
+       src="https://github-readme-stats-hcip.vercel.app/api/top-langs/?username=camilliverse&layout=compact&bg_color=00000000&title_color=e6edf3&text_color=9da7b3&border_color=9da7b3"/>
+
 </div>
