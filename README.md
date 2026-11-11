@@ -25,15 +25,17 @@
 
 <br>
 
-<p align="left">───────────────</p>
+ <p align="left">───────────────</p>
 
-<h3 align="left"> GitHub Analytics</h3>
+<h3 align="left">📊 GitHub Analytics</h3>
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats-hcip.vercel.app/api?username=camilliverse&show_icons=true&count_private=true&hide=issues&bg_color=00000000&title_color=e6edf3&text_color=9da7b3&icon_color=9da7b3&border_color=30363d"/>
+  <!-- GitHub Stats -->
+  <img height="170" src="https://github-readme-stats-hcip.vercel.app/api?username=camilliverse&show_icons=true&count_private=true&hide=issues&bg_color=00000000&title_color=e6edf3&text_color=9da7b3&icon_color=9da7b3&border_color=30363d"/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilliverse&layout=compact&bg_color=00000000&title_color=e6edf3&text_color=9da7b3&border_color=30363d&hide_border=false"/>
+  <!-- Top Languages -->
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=camilliverse&layout=compact&bg_color=00000000&title_color=e6edf3&text_color=9da7b3&border_color=30363d"/>
 
 </div>
 
