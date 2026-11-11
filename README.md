@@ -27,7 +27,8 @@
 
 <div align="center">
   <img width="49%" height="180"
-       src="https://github-readme-stats-hcip.vercel.app/api?username=camilliverse&show_icons=true&count_private=true&hide=issues&card_width=400&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"/><img width="49%" height="170"
+       src="https://github-readme-stats-hcip.vercel.app/api?username=camilliverse&show_icons=true&count_private=true&hide=issues&card_width=400&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"/><img width="49%" height="175
+                                                                                                                                                                                                                                                 "
        src="https://github-stats-extended.vercel.app/api/top-langs/?username=camilliverse&layout=compact&langs_count=5&card_width=400&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
 </div>
 
