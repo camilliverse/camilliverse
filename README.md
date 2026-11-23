@@ -33,7 +33,7 @@
     </td>
     <td width="50%">
       <img width="400"
-           src="https://github-stats-extended.vercel.app/api/top-langs/?username=camilliverse&layout=compact&langs_count=5&card_width=400&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
+           src="https://github-stats-extended.vercel.app/api/top-langs/?username=camilliverse&layout=compact&langs_count=10&card_width=400&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
     </td>
   </tr>
 </table>
