@@ -1,11 +1,53 @@
+<table>
+<tr>
+
+<td width="40%" valign="top">
+
 <h1 align="left"> Camilli dos Santos</h1>
 
 <p align="left">
-  <b>Software Developer & Computer Science Student</b><br>
-  Building real-world projects with focus on clean code, logic and best practices.
+
+ <b>Software Developer & Computer Science Student</b><br>
+
+ Building real-world projects with focus on clean code, logic and best practices.
+
 </p>
 
 <p align="left">───────────────</p>
+
+</td>
+
+<td width="60%" valign="top">
+
+## 🚀 About Me
+
+```java
+public class CamilliDosSantos {
+ String role = "Computer Science Student";
+ String location = "São Paulo, Brazil";
+ String[] interests = {
+ "Software Development",
+ "Backend Engineering",
+ "Python",
+ "Java",
+ "Spring Boot"
+ };
+
+ String[] learning = {
+ "Data Structures",
+ "Algorithms",
+ "System Design",
+ "Cloud Computing",
+ "Software Architecture"
+ };
+ String goal = "Become a Software Engineer";
+}
+```
+
+</td>
+
+</tr>
+</table>
 
 <h3 align="left">Technologies</h3>
 
