@@ -2,7 +2,7 @@
 <tr>
 
 <td width="40%" valign="top">
-<h1 align="left">Camilli dos Santos</h1>
+<h1 align="left"> Camilli dos Santos</h1>
 
 <p align="left">
  <b>Software Developer & Computer Science Student</b><br>
