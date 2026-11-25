@@ -81,7 +81,6 @@ public class CamilliDosSantos {
     </td>
   </tr>
 </table>
----
 
 # Contribution Streak
 
@@ -90,12 +89,6 @@ public class CamilliDosSantos {
 
 </div>
 
-# GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=camilliverse&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
-
-</div>
 
 # Activity Graph
 
