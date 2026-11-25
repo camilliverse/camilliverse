@@ -81,7 +81,7 @@ public class CamilliDosSantos {
  </tr>
 </table>
 
-<div width="30%" align="center">
+<div width="20%" align="center">
 <h3 align="left">Contribution Streak</h3>
 
 <img src="https://streak-stats.demolab.com?user=camilliverse&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
