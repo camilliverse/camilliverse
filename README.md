@@ -63,7 +63,7 @@ public class CamilliDosSantos {
 
 <br>
 
-<table align="center" border="0">
+<table align="left" border="0">
  <tr>
   <td width="50%">
    <img
@@ -81,9 +81,9 @@ public class CamilliDosSantos {
  </tr>
 </table>
 
-<h3 align="center">Contribution Streak</h3>
+<h3 align="left">Contribution Streak</h3>
 
-<div align="center">
+<div align="left">
   <img
     src="https://streak-stats.demolab.com?user=camilliverse&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"
     alt="GitHub Streak"
@@ -93,14 +93,14 @@ public class CamilliDosSantos {
 
 ## Activity Graph
 
-<div align="center">
+<div align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=camilliverse&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ## Connect With Me
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/camilliverse">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
