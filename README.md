@@ -69,7 +69,7 @@ public class CamilliDosSantos {
    <img
     width="400"
     src="https://github-stats-extended.vercel.app/api?username=camilliverse&show_icons=true&hide=issues&card_width=400&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&cache_seconds=1800"
-    alt="Camilli GitHub Stats" />
+    alt="Camis GitHub Stats" />
   </td>
   <td width="50%">
    <img
