@@ -1,9 +1,9 @@
 <table>
 <tr>
 
-<td width="40%" valign="top"lign="center">
-<h1 align="left"> Camilli dos Santos</h1>
- 
+<td width="40%" valign="top" align="center">
+<h1 align="center">Camilli dos Santos</h1>
+
 <p align="left">
  <b>Software Developer & Computer Science Student</b><br>
  Building real-world projects with focus on clean code, logic and best practices.
@@ -13,7 +13,7 @@
 
 </td>
 
-<td width="40%" valign="top">
+<td width="40%" valign="top" align="center">
 
 ## About Me
 
