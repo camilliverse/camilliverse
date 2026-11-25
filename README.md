@@ -19,7 +19,7 @@
 
 <td width="60%" valign="top">
 
-## 🚀 About Me
+## About Me
 
 ```java
 public class CamilliDosSantos {
