@@ -63,7 +63,7 @@ public class CamilliDosSantos {
 
 <br>
 
- <<table align="left" border="0">
+ <table align="left" border="0">
  <tr>
   <td width="50%">
    <img
