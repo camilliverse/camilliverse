@@ -81,7 +81,7 @@ public class CamilliDosSantos {
  </tr>
 </table>
 
-<h3 align="left">Contribution Streak</h3>
+<h3 align="center">Contribution Streak</h3>
 
 <div align="center">
   <img
