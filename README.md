@@ -81,15 +81,6 @@ public class CamilliDosSantos {
     </td>
   </tr>
 </table>
-
-# GitHub Analytics
-
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=camilliverse&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilliverse&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 # Contribution Streak
