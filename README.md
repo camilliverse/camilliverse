@@ -81,3 +81,54 @@ public class CamilliDosSantos {
     </td>
   </tr>
 </table>
+
+# GitHub Analytics
+
+<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=camilliverse&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilliverse&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Streak
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=camilliverse&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+# GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=camilliverse&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
+
+</div>
+
+# Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=camilliverse&theme=tokyo-night&hide_border=true"/>
+
+</div>
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/camilliverse">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
