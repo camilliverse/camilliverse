@@ -91,14 +91,14 @@ public class CamilliDosSantos {
 </div>
 
 
-# Activity Graph
+## Activity Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=camilliverse&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-# Connect With Me
+## Connect With Me
 
 <div align="center">
 
