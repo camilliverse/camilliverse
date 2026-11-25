@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="40%" valign="top">
 <h1 align="left"> Camilli dos Santos</h1>
  
 <p align="left">
@@ -13,7 +13,7 @@
 
 </td>
 
-<td width="60%" valign="top">
+<td width="40%" valign="top">
 
 ## About Me
 
