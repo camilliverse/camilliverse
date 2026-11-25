@@ -80,7 +80,7 @@ public class CamilliDosSantos {
   </td>
  </tr>
 </table>
-<div align="left">
+<div align="center">
 <h3 align="left">Contribution Streak</h3>
 
 <img
