@@ -118,5 +118,5 @@ public class CamilliDosSantos {
 </div>
 
 <div align="center">
-  <img src="matrix_02.gif" width="400" alt="Coding Animation">
+  <img src="https://raw.githubusercontent.com/camilliverse/camilliverse/main/matrix.gif" width="400" alt="Matrix GIF">
 </div>
