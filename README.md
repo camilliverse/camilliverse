@@ -116,7 +116,3 @@ public class CamilliDosSantos {
 </a>
 
 </div>
-
-<div align="center">
-  <img src="matrix.webp" width="400" alt="Matrix GIF">
-</div>
