@@ -90,9 +90,9 @@ public class CamilliDosSantos {
 
 ### Activity Graph
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=camilliverse&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=camilliverse&theme=tokyo-night&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
